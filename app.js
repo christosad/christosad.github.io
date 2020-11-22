@@ -38,7 +38,7 @@ jQuery(document).ready(function($){
 
 
   $('.section2 .scroll-down svg').click(function(){
-    location.href='http://christosad.github.io#projects';
+    location.href='/#projects';
   });
 
 function myCallback(){
