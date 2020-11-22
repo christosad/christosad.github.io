@@ -723,6 +723,16 @@ body .section1 .black-div{
   .section5 .row-text{
     font-size: 20px;
   }
+  
+    .section5{
+    padding-bottom: 400px !important;
+  }
+
+  .section5 .column1,
+  .section5 .column2{
+    max-width: 100%;
+    width: auto;
+  }
 }
 
 
