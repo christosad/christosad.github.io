@@ -36,11 +36,6 @@ jQuery(document).ready(function($){
               .to($('body'), {overflow: 'visible', onComplete: myCallback});
 
 
-
-  $('.section2 .scroll-down svg').click(function(){
-    location.href='/#projects';
-  });
-
 function myCallback(){
 
   if (screen.width > 1024) {
