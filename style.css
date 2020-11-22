@@ -749,6 +749,17 @@ body .section1 .black-div{
     margin-right: 15px;
     margin-bottom: 15px;
   }
+  
+   .section5{
+    padding-bottom: 400px !important;
+    top: 0px !important;
+  }
+
+  .section5 .column1,
+  .section5 .column2{
+    max-width: 100%;
+    width: auto;
+  }
 }
 
 
