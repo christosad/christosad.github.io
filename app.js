@@ -38,7 +38,7 @@ jQuery(document).ready(function($){
 
 
   $('.section2 .scroll-down svg').click(function(){
-    location.href='file:///C:/Users/chris/Desktop/portfolio-vanilla-code/index.html#projects';
+    location.href='http://christosad.github.io#projects';
   });
 
 function myCallback(){
